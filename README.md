@@ -1,4 +1,4 @@
-# Proxus IIoT Platform: downloads
+# Proxus Industrial Data Platform: downloads
 
 This repository is where Proxus publishes its installation packages. It holds no source code.
 
